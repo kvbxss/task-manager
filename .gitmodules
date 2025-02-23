@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kvbxss/backend
+[submodule "client"]
+	path = client
+	url = https://github.com/kvbxss/client
