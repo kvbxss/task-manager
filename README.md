@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 This is a simple **Task Manager** application built with a **NestJS backend (GraphQL API)** and a **React frontend**. It allows users to create, update, delete, and view tasks. The project follows best practices for validation, error handling, and UI feedback.
+Open for a quick video of how it works [**Preview**](https://www.loom.com/share/a4a2e73f02fd45abb00b4f983a51e348?sid=54cd34f6-d117-4f16-95be-486c2cfcf636) 
 
 ## 🚀 Features
 
